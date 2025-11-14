@@ -4,6 +4,8 @@ A predictive model that estimates the power output of a wind turbine using weath
 ### Project Overview
 This project predicts the power output of a wind turbine based on operational parameters such as wind speed and wind direction. It uses machine learning models (Linear Regression and XGBoost) to estimate power output and provides an easy-to-use Streamlit interface for real-time predictions.
 
+[wind turbine power prediction app](https://forecasting-wind-turbine-power-output-using-machine-learning-a.streamlit.app/). Check this out!
+
 ---
 
 #### DATASET - The Wind Turbine Scada Dataset
